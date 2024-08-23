@@ -13,7 +13,7 @@
 
 # 🖼️Screenshots
 
-| Splash Screen | Onboarding Screen | Onboarding Screen | 
+| Home Screen | Wishlist Screen | Cart Screen | 
 | :---         |     :---      |     :---      |       
 | <img src="https://github.com/user-attachments/assets/51e49dd1-eea1-48f7-a710-4994befd2a65" width="260" height="auto" />  | <img src="https://github.com/user-attachments/assets/7b3165b9-90c9-4517-b54c-42923950acaa" width="250" height="auto" /> | <img src="https://github.com/user-attachments/assets/1bd3aedc-0099-45a4-bcac-19601d4b2bda" width="250" height="auto" />     
 
